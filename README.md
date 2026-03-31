@@ -81,7 +81,8 @@ Nous pensons que ces améliorations permettront de rendre l’application plus p
 ## 👥 Les Membres du groupe 
 
 - LOKOSSOU Pascal
-- Nom de ton groupe
+- ZOUNYIHOUE Conforte
+- SERO Akim
 
 
 
